@@ -16,11 +16,12 @@
     font: 400 1em, sans-serif;
     display: inline-block;
     border-radius: 10px;
-    background-color: #d1e7dd;
+    background-color: #e0edfe;
 }
 
 .incoming-message .message-inner {
-    background-color: #ffdab9;
+    background-color: #47A992;
+    color: white;
 }
 
 .incoming-message {
