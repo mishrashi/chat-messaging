@@ -1,0 +1,8 @@
+.login__bg {
+    background-image: url('https://png.pngtree.com/png-vector/20190729/ourlarge/pngtree-chatting-chat-sms-mail-blue-icon-on-abstract-cloud-background-png-image_1622681.jpg');
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
